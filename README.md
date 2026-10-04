@@ -2,15 +2,11 @@
 
 一个喜欢折腾、注重审美的普通人。最近在学着用代码做点自己的小东西——不靠框架、不搞复杂,能用、好看就行。
 
+![Focus](https://img.shields.io/badge/Focus-Design%20%26%20Simplicity-ffd79a?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-HTML%20%2F%20JS-ff5f3c?style=flat-square)
+![Vibe](https://img.shields.io/badge/Vibe-Build%20small%2C%20build%20pretty-3fb950?style=flat-square)
+
 🏋️ 正在玩:把日常需求做成小网页
 🎨 在意:简洁、有质感的设计
 🌱 在学:HTML / 一点点 JavaScript / GitHub
 
-### 我的作品
-
-- ⏱️ **[Rest Timer](https://faust-cloud.github.io/rest-timer/)** — 一个带电影感的健身组间休息计时器,点一下开始、拖动设时长,纯手搓单页网页。
-
-### 关于
-
-- 做东西的信条:先能用,再好看,别过度设计。
-- 如果你也喜欢做小而美的东西,欢迎来逛逛我的仓库 ✨
