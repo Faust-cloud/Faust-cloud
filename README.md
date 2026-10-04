@@ -1,16 +1,16 @@
-## Hi there 👋
+# 嗨,我是 Faust 👋
 
-<!--
-**Faust-cloud/Faust-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个喜欢折腾、注重审美的普通人。最近在学着用代码做点自己的小东西——不靠框架、不搞复杂,能用、好看就行。
 
-Here are some ideas to get you started:
+🏋️ 正在玩:把日常需求做成小网页
+🎨 在意:简洁、有质感的设计
+🌱 在学:HTML / 一点点 JavaScript / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我的作品
+
+- ⏱️ **[Rest Timer](https://faust-cloud.github.io/rest-timer/)** — 一个带电影感的健身组间休息计时器,点一下开始、拖动设时长,纯手搓单页网页。
+
+### 关于
+
+- 做东西的信条:先能用,再好看,别过度设计。
+- 如果你也喜欢做小而美的东西,欢迎来逛逛我的仓库 ✨
