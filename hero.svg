@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320">
+  <style>
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      text-anchor: middle;
+    }
+    .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 4px; fill: #86868b; }
+    .title   { font-size: 104px; font-weight: 700; letter-spacing: -4px; fill: #1d1d1f; }
+    .dot     { fill: #d97757; }
+    .sub     { font-size: 26px; font-weight: 500; fill: #1d1d1f; }
+    .note    { font-size: 17px; font-weight: 400; fill: #86868b; }
+
+    .f  { animation: up 1.1s cubic-bezier(.2,.7,.2,1) both; }
+    .d1 { animation-delay: .1s; }
+    .d2 { animation-delay: .35s; }
+    .d3 { animation-delay: .6s; }
+    .d4 { animation-delay: .85s; }
+    @keyframes up {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .title, .sub { fill: #f5f5f7; }
+      .eyebrow, .note { fill: #a1a1a6; }
+    }
+  </style>
+
+  <text class="eyebrow f d1" x="440" y="72">HELLO, I'M</text>
+  <text class="title f d2" x="440" y="180">Faust<tspan class="dot">.</tspan></text>
+  <text class="sub f d3" x="440" y="234">做一些小而好看的东西。</text>
+  <text class="note f d4" x="440" y="270">Simple, useful, and a little bit pretty.</text>
+</svg>
