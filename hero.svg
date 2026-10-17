@@ -28,6 +28,6 @@
 
   <text class="eyebrow f d1" x="440" y="72">HELLO, I'M</text>
   <text class="title f d2" x="440" y="180">Faust<tspan class="dot">.</tspan></text>
-  <text class="sub f d3" x="440" y="234">做一些小而好看的东西。</text>
-  <text class="note f d4" x="440" y="270">Simple, useful, and a little bit pretty.</text>
+  <text class="sub f d3" x="440" y="234">把想法，做成作品。</text>
+  <text class="note f d4" x="440" y="270">From idea to something real.</text>
 </svg>
